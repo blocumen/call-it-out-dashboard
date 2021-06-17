@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Caio-1/static/css/main.aaa1e0ad.chunk.css",
-    "main.js": "/Caio-1/static/js/main.d0e50a19.chunk.js",
-    "main.js.map": "/Caio-1/static/js/main.d0e50a19.chunk.js.map",
+    "main.js": "/Caio-1/static/js/main.b3ec6994.chunk.js",
+    "main.js.map": "/Caio-1/static/js/main.b3ec6994.chunk.js.map",
     "runtime-main.js": "/Caio-1/static/js/runtime-main.cfe6a6ff.js",
     "runtime-main.js.map": "/Caio-1/static/js/runtime-main.cfe6a6ff.js.map",
     "static/js/2.89fcfd3a.chunk.js": "/Caio-1/static/js/2.89fcfd3a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.cfe6a6ff.js",
     "static/js/2.89fcfd3a.chunk.js",
     "static/css/main.aaa1e0ad.chunk.css",
-    "static/js/main.d0e50a19.chunk.js"
+    "static/js/main.b3ec6994.chunk.js"
   ]
 }
