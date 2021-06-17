@@ -15,7 +15,9 @@ const App = () => {
             <div class="brand header-brand">
               <h1 class="m-0">
                 <a href="#">
-                  <img class="header-logo-image" src={logo} alt="Logo" />
+                <svg xmlns="http://www.w3.org/2000/svg" width="87" height="49" viewBox="0 0 87 49">
+         <text id="CaiO" transform="translate(0 40)" fill="#1c61ca" font-size="37" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">CaiO</tspan></text>
+         </svg>
                 </a>
               </h1>
             </div>
